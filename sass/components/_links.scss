@@ -1,0 +1,13 @@
+.link {
+    font-size: 32px;
+    text-decoration: none;
+
+    &:hover {
+        color: $yellow;
+    }
+}
+
+.link-primary {
+    color: $red;
+}
+
